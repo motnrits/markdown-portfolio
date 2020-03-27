@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+- reading
+  - science fiction
+  - Jack Reacher
+- computer gaming
+- programming
+- music
