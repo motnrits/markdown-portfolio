@@ -1,1 +1,1 @@
-### My name Tom Stirn.
+### My name is Tom Stirn.
