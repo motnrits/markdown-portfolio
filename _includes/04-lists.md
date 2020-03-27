@@ -1,0 +1,6 @@
+- reading
+  - science fiction
+  - Jack Reacher
+- computer gaming
+- programming
+- music
